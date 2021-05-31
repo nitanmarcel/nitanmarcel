@@ -9,18 +9,8 @@
 
 ### Donate:
 
-[
-  ![Donate with PayPal]
-  (https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
-]
-(https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MTRML7LQR6KRY)
-
-<!-- [
-  ![Donate with Revolut]
-  (https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
-]
-(https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MTRML7LQR6KRY) -->
 
 
-### Github Stats:
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitanmarcel&theme=radical&show_icons=true)
+[![Donate with Revolut](https://raw.githubusercontent.com/nitanmarcel/nitanmarcel/main/revolut-donate-button.png)](https://revolut.me/nitanmarcel) 
+
+[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MTRML7LQR6KRY)
