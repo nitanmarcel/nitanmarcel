@@ -4,8 +4,8 @@
 ### About me:
 - 🧒 I am: Marcel Alexandru Nitan
 - 🇷🇴 I am from: Romania
-- 📫 How to reach me: nitan.marcel@protonmail.com
-- 🔗 Website/Blog: https://nitanmarcel.com
+- 📫 How to reach me: marcel.software@proton.me
+- 🔗 Website/Blog: https://marcelnitan.online
 
 ### Donate:
 
